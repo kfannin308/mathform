@@ -1,3 +1,9 @@
+#In this Demo
+- more on validators
+- reactive fomrs iwth fxjs
+- FormGroup and FormControl
+- rxjs, observers, event emitters
+- detecting changes
 # Mathform
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
